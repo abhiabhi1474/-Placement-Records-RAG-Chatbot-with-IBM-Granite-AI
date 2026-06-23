@@ -1,0 +1,12 @@
+pandas
+openpyxl
+sentence-transformers
+faiss-cpu
+torch
+transformers
+accelerate
+gradio
+numpy
+audioop-lts
+pydantic==2.10.6
+huggingface_hub<1.0
