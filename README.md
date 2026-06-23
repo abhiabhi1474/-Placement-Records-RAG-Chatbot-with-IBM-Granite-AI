@@ -1,1 +1,1 @@
-# -Placement-Records-RAG-Chatbot-with-IBM-Granite-AI
+# Placement-Records-RAG-Chatbot-with-IBM-Granite-AI
